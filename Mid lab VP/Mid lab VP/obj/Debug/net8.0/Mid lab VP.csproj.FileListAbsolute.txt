@@ -1,0 +1,14 @@
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\bin\Debug\net8.0\Mid lab VP.exe
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\bin\Debug\net8.0\Mid lab VP.deps.json
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\bin\Debug\net8.0\Mid lab VP.runtimeconfig.json
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\bin\Debug\net8.0\Mid lab VP.dll
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\bin\Debug\net8.0\Mid lab VP.pdb
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.AssemblyInfoInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.AssemblyInfo.cs
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.dll
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\refint\Mid lab VP.dll
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.pdb
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\Mid lab VP.genruntimeconfig.cache
+C:\Users\Abdul Wasay Sial\Desktop\Mid lab vp\Mid lab VP\Mid lab VP\obj\Debug\net8.0\ref\Mid lab VP.dll
